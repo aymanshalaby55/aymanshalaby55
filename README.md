@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on  **Stream Video Project**
 
-- 🌱 I’m currently learning **C# and Database**
+- 🌱 I’m currently learning **Operating System**
 
 - ⚡ Fun fact **interested in porblem solving and wrong answers**
 
