@@ -4,8 +4,8 @@
 <h3 align="center">backend developer</h3>
 
 
-- 🌱 I’m currently learning **Operating System**
-
+- 🌱 I’m currently learning **Operating System,** **Database Internals** and **React**
+ 
 - ⚡ **interested in problem solving and Open source projects**
 
 <h3 align="left">Links:</h3>
